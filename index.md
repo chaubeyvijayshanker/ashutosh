@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>www.gamer.com</title>
+</head>
+<body>
+<center>
+click open to open whitehat jr
+</center>
+</body>
+</html>
+<center><img src="whitehat jr.jpeg"></center>
+<center><a href="https://code.whitehatjr.com/login/new">
+open whitehat jr</a></center>
+<br><br>
+whitehat jr is a best platfrom for i like this platform students can code we can reffer so other students can also learn coing click on open whithat jr so you can also try and buy classes i like it so much you can lso join
+<center><input type="text" name="spaceholder"size="130"></center>
+<center><input type="submit" value="send"></center>
+<center>you can wright about white hat jr</center>
+<center><img src="sublime.jpeg"></center>
+<center><a href="Sublime Text Build 3211.dmg"downlode>
+	downlode sublime test editor</a></center>
+	sublime text editor help us to code and make a web it is a softwere so you can also creat web and host it you can also downlode softwere cick downlode it is only of 5 or 6 mb you can downlode easely so click downlode
+	<center><input type="text" name="serch"size="130"></center>
+	<center><input type="submit" value="send"size="10"></center>
+<center>opera gx browser click downlode fof mac</center>
+<center><img src="download.jpeg"></center>
+downlode opera browser</a></center>
+Opera GX is a gaming-oriented counterpart of Opera web browser for Microsoft Windows and macOS, developed by Opera Software AS. Opera GX was announced on June 11, 2019, the same day as the start of E3 2019. As of October 2020 it is in open Early Access.
 
-You can use the [editor on GitHub](https://github.com/chaubeyvijayshanker/ashutosh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<center><input type="text" name="serch"size="130"></center>
+<center><input type="submit" value="send"></center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaubeyvijayshanker/ashutosh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
